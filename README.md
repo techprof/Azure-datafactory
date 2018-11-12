@@ -14,7 +14,7 @@ When you deploy this Azure Resource Manager template, a data factory of version 
 - Azure Storage linked service 
 - On-premises SQL Server input dataset
 - Azure Blob output dataset
-- Pipeline with a copy activity
+- Pipeline with a copy activity Datafactory
 
 ## Prerequisites
 The prerequisites for this template are mentioned in the [copy data from on-premises SQL Server database to Azure Blob Storage](https://docs.microsoft.com/en-us/azure/data-factory/tutorial-hybrid-copy-portal#prerequisites) article.
