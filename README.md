@@ -30,6 +30,4 @@ The prerequisites for this template are mentioned in the [Tutorial: copy data fr
 8. Click the **Edit** (Pencil icon) for your self-hosted IR. 
 9. Click the **Copy** button for **Key1** to copy the key to the clipboard. 
 10. Install  the self-hosted integration runtime by following instructions in this article: [Install and register self-hosted IR from download center](https://docs.microsoft.com/en-us/azure/data-factory/create-self-hosted-integration-runtime#install-and-register-self-hosted-ir-from-download-center). Use the key you copied in the previous step to register the integration runtime.
-11. Now, run and monitor the pipeline by using the steps in the [tutorial article](https://docs.microsoft.com/en-us/azure/data-factory/tutorial-hybrid-copy-portal#trigger-a-pipeline-run).
-
 
